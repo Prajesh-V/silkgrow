@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sup-kssrdi",
+    "name": "KSSRDI Verified Nursery, Thalaghattapura",
+    "location": "Thalaghattapura",
+    "deliveryEstimate": "24h",
+    "isDemo": true
+  },
+  {
+    "id": "sup-sericare",
+    "name": "SeriCare Biotech Labs, Mandya",
+    "location": "Mandya",
+    "deliveryEstimate": "48h",
+    "isDemo": true
+  },
+  {
+    "id": "sup-karnatakaagro",
+    "name": "Karnataka Agro Sericulture Supply, Kolar",
+    "location": "Kolar",
+    "deliveryEstimate": "48h",
+    "isDemo": true
+  },
+  {
+    "id": "sup-cauvery",
+    "name": "Cauvery Sericulture Craft Cooperative",
+    "location": "Ramanagara",
+    "deliveryEstimate": "3 days",
+    "isDemo": true
+  },
+  {
+    "id": "sup-csb",
+    "name": "Central Silk Board Certified Depot",
+    "location": "Mysuru",
+    "deliveryEstimate": "24h",
+    "isDemo": true
+  },
+  {
+    "id": "sup-agritech",
+    "name": "AgriTech MicroClimate Innovations, Bengaluru",
+    "location": "Bengaluru",
+    "deliveryEstimate": "24h",
+    "isDemo": true
+  }
+]

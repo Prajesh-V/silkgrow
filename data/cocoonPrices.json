@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "cp-mkt-ramanagara-1",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-22",
+    "price": 622,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-2",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-23",
+    "price": 623,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-3",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-24",
+    "price": 626,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-4",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-25",
+    "price": 625,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-5",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-26",
+    "price": 620,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-6",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-27",
+    "price": 615,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-7",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-28",
+    "price": 613,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-8",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-29",
+    "price": 616,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-9",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-30",
+    "price": 619,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-10",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-31",
+    "price": 619,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-11",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-01",
+    "price": 618,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-12",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-02",
+    "price": 619,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-13",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-03",
+    "price": 624,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-14",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-04",
+    "price": 628,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-15",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-05",
+    "price": 627,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-16",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-06",
+    "price": 622,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-17",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-07",
+    "price": 618,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-18",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-08",
+    "price": 618,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-19",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-09",
+    "price": 619,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-20",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-10",
+    "price": 618,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-21",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-11",
+    "price": 615,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-22",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-12",
+    "price": 613,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-23",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-13",
+    "price": 617,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-24",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-14",
+    "price": 623,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-25",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-15",
+    "price": 626,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-26",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-16",
+    "price": 625,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-27",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-17",
+    "price": 622,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-28",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-18",
+    "price": 622,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-29",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-19",
+    "price": 623,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-ramanagara-30",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-20",
+    "price": 623,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-1",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-22",
+    "price": 612,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-2",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-23",
+    "price": 613,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-3",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-24",
+    "price": 616,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-4",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-25",
+    "price": 615,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-5",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-26",
+    "price": 610,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-6",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-27",
+    "price": 605,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-7",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-28",
+    "price": 603,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-8",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-29",
+    "price": 606,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-9",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-30",
+    "price": 609,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-10",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-31",
+    "price": 609,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-11",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-01",
+    "price": 608,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-12",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-02",
+    "price": 609,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-13",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-03",
+    "price": 614,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-14",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-04",
+    "price": 618,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-15",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-05",
+    "price": 617,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-16",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-06",
+    "price": 612,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-17",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-07",
+    "price": 608,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-18",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-08",
+    "price": 608,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-19",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-09",
+    "price": 609,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-20",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-10",
+    "price": 608,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-21",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-11",
+    "price": 605,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-22",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-12",
+    "price": 603,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-23",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-13",
+    "price": 607,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-24",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-14",
+    "price": 613,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-25",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-15",
+    "price": 616,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-26",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-16",
+    "price": 615,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-27",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-17",
+    "price": 612,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-28",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-18",
+    "price": 612,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-29",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-19",
+    "price": 613,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mysuru-30",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-20",
+    "price": 613,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-1",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-22",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-2",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-23",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-3",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-24",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-4",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-25",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-5",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-26",
+    "price": 590,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-6",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-27",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-7",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-28",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-8",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-29",
+    "price": 586,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-9",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-30",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-10",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-31",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-11",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-01",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-12",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-02",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-13",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-03",
+    "price": 594,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-14",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-04",
+    "price": 598,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-15",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-05",
+    "price": 597,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-16",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-06",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-17",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-07",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-18",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-08",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-19",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-09",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-20",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-10",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-21",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-11",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-22",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-12",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-23",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-13",
+    "price": 587,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-24",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-14",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-25",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-15",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-26",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-16",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-27",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-17",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-28",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-18",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-29",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-19",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-channapatna-30",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-20",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-1",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-22",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-2",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-23",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-3",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-24",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-4",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-25",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-5",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-26",
+    "price": 590,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-6",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-27",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-7",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-28",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-8",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-29",
+    "price": 586,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-9",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-30",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-10",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-31",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-11",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-01",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-12",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-02",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-13",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-03",
+    "price": 594,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-14",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-04",
+    "price": 598,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-15",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-05",
+    "price": 597,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-16",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-06",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-17",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-07",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-18",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-08",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-19",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-09",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-20",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-10",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-21",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-11",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-22",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-12",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-23",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-13",
+    "price": 587,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-24",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-14",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-25",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-15",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-26",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-16",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-27",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-17",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-28",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-18",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-29",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-19",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-kolar-30",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-20",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-1",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-22",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-2",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-23",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-3",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-24",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-4",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-25",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-5",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-26",
+    "price": 590,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-6",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-27",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-7",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-28",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-8",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-29",
+    "price": 586,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-9",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-30",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-10",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-31",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-11",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-01",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-12",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-02",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-13",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-03",
+    "price": 594,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-14",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-04",
+    "price": 598,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-15",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-05",
+    "price": 597,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-16",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-06",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-17",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-07",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-18",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-08",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-19",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-09",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-20",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-10",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-21",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-11",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-22",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-12",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-23",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-13",
+    "price": 587,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-24",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-14",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-25",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-15",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-26",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-16",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-27",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-17",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-28",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-18",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-29",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-19",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-mandya-30",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-20",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-1",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-22",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-2",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-23",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-3",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-24",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-4",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-25",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-5",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-26",
+    "price": 590,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-6",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-27",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-7",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-28",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-8",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-29",
+    "price": 586,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-9",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-30",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-10",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-08-31",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-11",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-01",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-12",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-02",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-13",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-03",
+    "price": 594,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-14",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-04",
+    "price": 598,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-15",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-05",
+    "price": 597,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-16",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-06",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-17",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-07",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-18",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-08",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-19",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-09",
+    "price": 589,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-20",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-10",
+    "price": 588,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-21",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-11",
+    "price": 585,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-22",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-12",
+    "price": 583,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-23",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-13",
+    "price": 587,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-24",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-14",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-25",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-15",
+    "price": 596,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-26",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-16",
+    "price": 595,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-27",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-17",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-28",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-18",
+    "price": 592,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-29",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-19",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "cp-mkt-bengaluru-30",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "productName": "Bivoltine CSR2",
+    "date": "2026-09-20",
+    "price": 593,
+    "unit": "kg",
+    "sourceType": "demo"
+  }
+]

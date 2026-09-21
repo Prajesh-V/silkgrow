@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "sp-mkt-ramanagara-1",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-22",
+    "price": 3722,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-2",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-23",
+    "price": 3723,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-3",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-24",
+    "price": 3726,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-4",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-25",
+    "price": 3725,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-5",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-26",
+    "price": 3720,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-6",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-27",
+    "price": 3715,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-7",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-28",
+    "price": 3713,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-8",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-29",
+    "price": 3716,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-9",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-30",
+    "price": 3719,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-10",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-31",
+    "price": 3719,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-11",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-01",
+    "price": 3718,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-12",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-02",
+    "price": 3719,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-13",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-03",
+    "price": 3724,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-14",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-04",
+    "price": 3728,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-15",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-05",
+    "price": 3727,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-16",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-06",
+    "price": 3722,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-17",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-07",
+    "price": 3718,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-18",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-08",
+    "price": 3718,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-19",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-09",
+    "price": 3719,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-20",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-10",
+    "price": 3718,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-21",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-11",
+    "price": 3715,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-22",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-12",
+    "price": 3713,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-23",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-13",
+    "price": 3717,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-24",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-14",
+    "price": 3723,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-25",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-15",
+    "price": 3726,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-26",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-16",
+    "price": 3725,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-27",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-17",
+    "price": 3722,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-28",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-18",
+    "price": 3722,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-29",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-19",
+    "price": 3723,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-ramanagara-30",
+    "marketId": "mkt-ramanagara",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-20",
+    "price": 3723,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-1",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-22",
+    "price": 3662,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-2",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-23",
+    "price": 3663,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-3",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-24",
+    "price": 3666,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-4",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-25",
+    "price": 3665,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-5",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-26",
+    "price": 3660,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-6",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-27",
+    "price": 3655,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-7",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-28",
+    "price": 3653,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-8",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-29",
+    "price": 3656,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-9",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-30",
+    "price": 3659,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-10",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-31",
+    "price": 3659,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-11",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-01",
+    "price": 3658,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-12",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-02",
+    "price": 3659,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-13",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-03",
+    "price": 3664,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-14",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-04",
+    "price": 3668,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-15",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-05",
+    "price": 3667,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-16",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-06",
+    "price": 3662,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-17",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-07",
+    "price": 3658,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-18",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-08",
+    "price": 3658,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-19",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-09",
+    "price": 3659,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-20",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-10",
+    "price": 3658,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-21",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-11",
+    "price": 3655,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-22",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-12",
+    "price": 3653,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-23",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-13",
+    "price": 3657,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-24",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-14",
+    "price": 3663,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-25",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-15",
+    "price": 3666,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-26",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-16",
+    "price": 3665,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-27",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-17",
+    "price": 3662,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-28",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-18",
+    "price": 3662,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-29",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-19",
+    "price": 3663,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mysuru-30",
+    "marketId": "mkt-mysuru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-20",
+    "price": 3663,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-1",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-22",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-2",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-23",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-3",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-24",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-4",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-25",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-5",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-26",
+    "price": 3540,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-6",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-27",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-7",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-28",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-8",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-29",
+    "price": 3536,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-9",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-30",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-10",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-31",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-11",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-01",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-12",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-02",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-13",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-03",
+    "price": 3544,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-14",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-04",
+    "price": 3548,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-15",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-05",
+    "price": 3547,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-16",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-06",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-17",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-07",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-18",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-08",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-19",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-09",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-20",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-10",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-21",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-11",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-22",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-12",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-23",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-13",
+    "price": 3537,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-24",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-14",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-25",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-15",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-26",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-16",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-27",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-17",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-28",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-18",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-29",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-19",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-channapatna-30",
+    "marketId": "mkt-channapatna",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-20",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-1",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-22",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-2",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-23",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-3",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-24",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-4",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-25",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-5",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-26",
+    "price": 3540,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-6",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-27",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-7",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-28",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-8",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-29",
+    "price": 3536,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-9",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-30",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-10",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-31",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-11",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-01",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-12",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-02",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-13",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-03",
+    "price": 3544,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-14",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-04",
+    "price": 3548,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-15",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-05",
+    "price": 3547,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-16",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-06",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-17",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-07",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-18",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-08",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-19",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-09",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-20",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-10",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-21",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-11",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-22",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-12",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-23",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-13",
+    "price": 3537,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-24",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-14",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-25",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-15",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-26",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-16",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-27",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-17",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-28",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-18",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-29",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-19",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-kolar-30",
+    "marketId": "mkt-kolar",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-20",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-1",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-22",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-2",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-23",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-3",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-24",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-4",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-25",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-5",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-26",
+    "price": 3540,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-6",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-27",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-7",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-28",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-8",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-29",
+    "price": 3536,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-9",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-30",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-10",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-31",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-11",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-01",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-12",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-02",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-13",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-03",
+    "price": 3544,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-14",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-04",
+    "price": 3548,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-15",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-05",
+    "price": 3547,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-16",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-06",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-17",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-07",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-18",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-08",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-19",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-09",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-20",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-10",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-21",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-11",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-22",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-12",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-23",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-13",
+    "price": 3537,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-24",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-14",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-25",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-15",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-26",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-16",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-27",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-17",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-28",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-18",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-29",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-19",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-mandya-30",
+    "marketId": "mkt-mandya",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-20",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-1",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-22",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-2",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-23",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-3",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-24",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-4",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-25",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-5",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-26",
+    "price": 3540,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-6",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-27",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-7",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-28",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-8",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-29",
+    "price": 3536,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-9",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-30",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-10",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-08-31",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-11",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-01",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-12",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-02",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-13",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-03",
+    "price": 3544,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-14",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-04",
+    "price": 3548,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-15",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-05",
+    "price": 3547,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-16",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-06",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-17",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-07",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-18",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-08",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-19",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-09",
+    "price": 3539,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-20",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-10",
+    "price": 3538,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-21",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-11",
+    "price": 3535,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-22",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-12",
+    "price": 3533,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-23",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-13",
+    "price": 3537,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-24",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-14",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-25",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-15",
+    "price": 3546,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-26",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-16",
+    "price": 3545,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-27",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-17",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-28",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-18",
+    "price": 3542,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-29",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-19",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  },
+  {
+    "id": "sp-mkt-bengaluru-30",
+    "marketId": "mkt-bengaluru",
+    "commodity": "silk",
+    "productName": "Raw Silk 2A",
+    "date": "2026-09-20",
+    "price": 3543,
+    "unit": "kg",
+    "sourceType": "demo"
+  }
+]

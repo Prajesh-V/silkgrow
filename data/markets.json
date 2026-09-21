@@ -1,0 +1,56 @@
+[
+  {
+    "id": "mkt-ramanagara",
+    "name": "Ramanagara",
+    "district": "Ramanagara",
+    "state": "Karnataka",
+    "country": "India",
+    "isDemo": true,
+    "phone": "+91 80 1234 5678"
+  },
+  {
+    "id": "mkt-mysuru",
+    "name": "Mysuru",
+    "district": "Mysuru",
+    "state": "Karnataka",
+    "country": "India",
+    "isDemo": true,
+    "phone": "+91 80 1234 5678"
+  },
+  {
+    "id": "mkt-channapatna",
+    "name": "Channapatna",
+    "district": "Ramanagara",
+    "state": "Karnataka",
+    "country": "India",
+    "isDemo": true,
+    "phone": "+91 80 1234 5678"
+  },
+  {
+    "id": "mkt-kolar",
+    "name": "Kolar",
+    "district": "Kolar",
+    "state": "Karnataka",
+    "country": "India",
+    "isDemo": true,
+    "phone": "+91 80 1234 5678"
+  },
+  {
+    "id": "mkt-mandya",
+    "name": "Mandya",
+    "district": "Mandya",
+    "state": "Karnataka",
+    "country": "India",
+    "isDemo": true,
+    "phone": "+91 80 1234 5678"
+  },
+  {
+    "id": "mkt-bengaluru",
+    "name": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "country": "India",
+    "isDemo": true,
+    "phone": "+91 80 1234 5678"
+  }
+]

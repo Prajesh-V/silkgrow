@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), "Inter", sans-serif;
+  --font-heading: "Plus Jakarta Sans", sans-serif;
+  
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-secondary: var(--secondary);
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-text-main: var(--text-main);
+  --color-text-muted: var(--text-muted);
+  --color-border: var(--border);
+  
+  --color-success-bg: var(--success-bg);
+  --color-success-text: var(--success-text);
+  --color-success-border: var(--success-border);
+  --color-danger-bg: var(--danger-bg);
+  --color-danger-text: var(--danger-text);
+  --color-neutral-bg: var(--neutral-bg);
+  --color-neutral-text: var(--neutral-text);
+  
+  --color-surface-hover: var(--surface-hover);
+  --color-surface-muted: var(--surface-muted);
+
+  --radius-base: 0.5rem; /* ROUND_EIGHT */
+}
+
+@layer base {
+  :root {
+    --primary: #386641;
+    --primary-hover: #2d5234;
+    --secondary: #bc4749;
+    --background: #f2e8cf;
+    --surface: #ffffff;
+    --surface-hover: #f9fafb;
+    --surface-muted: #f3f4f6;
+    --text-main: #1f2937;
+    --text-muted: #4b5563;
+    --border: #e5e7eb;
+    
+    /* Chart Colors */
+    --chart-1: #386641;
+    --chart-2: #bc4749;
+    --chart-grid: #e5e7eb;
+    --chart-text: #6b7280;
+    
+    /* Semantic Colors */
+    --success-bg: #f0fdf4;
+    --success-text: #166534;
+    --success-border: #bbf7d0;
+    --danger-bg: #fef2f2;
+    --danger-text: #991b1b;
+    --neutral-bg: #f3f4f6;
+    --neutral-text: #374151;
+  }
+
+  .dark {
+    --primary: #4ade80; /* lighter, vibrant green for dark mode */
+    --primary-hover: #22c55e;
+    --secondary: #f87171;
+    --background: #0f172a; /* deep slate */
+    --surface: #1e293b; /* lighter slate for cards */
+    --surface-hover: #334155;
+    --surface-muted: #0f172a;
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --border: #334155;
+
+    /* Chart Colors */
+    --chart-1: #4ade80;
+    --chart-2: #f87171;
+    --chart-grid: #334155;
+    --chart-text: #94a3b8;
+    
+    /* Semantic Colors */
+    --success-bg: #064e3b;
+    --success-text: #34d399;
+    --success-border: #065f46;
+    --danger-bg: #450a0a;
+    --danger-text: #fca5a5;
+    --neutral-bg: #1e293b;
+    --neutral-text: #cbd5e1;
+  }
+
+  body {
+    @apply bg-background text-text-main font-sans antialiased transition-colors duration-200;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+

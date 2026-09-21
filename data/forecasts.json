@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "fc-obj-mkt-ramanagara",
+    "marketId": "mkt-ramanagara",
+    "commodity": "cocoon",
+    "generatedAt": "2026-09-20T12:00:00Z",
+    "forecastHorizonDays": 30,
+    "sourceType": "offline_lstm_demo",
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "predictedPrice": 622,
+        "confidenceLower": 591,
+        "confidenceUpper": 653,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-22",
+        "predictedPrice": 623,
+        "confidenceLower": 592,
+        "confidenceUpper": 654,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-23",
+        "predictedPrice": 625,
+        "confidenceLower": 594,
+        "confidenceUpper": 656,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-24",
+        "predictedPrice": 626,
+        "confidenceLower": 595,
+        "confidenceUpper": 657,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-25",
+        "predictedPrice": 626,
+        "confidenceLower": 595,
+        "confidenceUpper": 657,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-26",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-27",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-28",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-29",
+        "predictedPrice": 626,
+        "confidenceLower": 595,
+        "confidenceUpper": 657,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-30",
+        "predictedPrice": 626,
+        "confidenceLower": 595,
+        "confidenceUpper": 657,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-01",
+        "predictedPrice": 625,
+        "confidenceLower": 594,
+        "confidenceUpper": 656,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-02",
+        "predictedPrice": 624,
+        "confidenceLower": 593,
+        "confidenceUpper": 655,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-03",
+        "predictedPrice": 624,
+        "confidenceLower": 593,
+        "confidenceUpper": 655,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-04",
+        "predictedPrice": 624,
+        "confidenceLower": 593,
+        "confidenceUpper": 655,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-05",
+        "predictedPrice": 624,
+        "confidenceLower": 593,
+        "confidenceUpper": 655,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-06",
+        "predictedPrice": 624,
+        "confidenceLower": 593,
+        "confidenceUpper": 655,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-07",
+        "predictedPrice": 625,
+        "confidenceLower": 594,
+        "confidenceUpper": 656,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-08",
+        "predictedPrice": 626,
+        "confidenceLower": 595,
+        "confidenceUpper": 657,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-09",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-10",
+        "predictedPrice": 629,
+        "confidenceLower": 598,
+        "confidenceUpper": 660,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-11",
+        "predictedPrice": 631,
+        "confidenceLower": 599,
+        "confidenceUpper": 663,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-12",
+        "predictedPrice": 632,
+        "confidenceLower": 600,
+        "confidenceUpper": 664,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-13",
+        "predictedPrice": 634,
+        "confidenceLower": 602,
+        "confidenceUpper": 666,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-14",
+        "predictedPrice": 635,
+        "confidenceLower": 603,
+        "confidenceUpper": 667,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-15",
+        "predictedPrice": 636,
+        "confidenceLower": 604,
+        "confidenceUpper": 668,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-16",
+        "predictedPrice": 637,
+        "confidenceLower": 605,
+        "confidenceUpper": 669,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-17",
+        "predictedPrice": 637,
+        "confidenceLower": 605,
+        "confidenceUpper": 669,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-18",
+        "predictedPrice": 637,
+        "confidenceLower": 605,
+        "confidenceUpper": 669,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-19",
+        "predictedPrice": 637,
+        "confidenceLower": 605,
+        "confidenceUpper": 669,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-20",
+        "predictedPrice": 637,
+        "confidenceLower": 605,
+        "confidenceUpper": 669,
+        "insight": "Stable trajectory"
+      }
+    ]
+  },
+  {
+    "id": "fc-obj-mkt-mysuru",
+    "marketId": "mkt-mysuru",
+    "commodity": "cocoon",
+    "generatedAt": "2026-09-20T12:00:00Z",
+    "forecastHorizonDays": 30,
+    "sourceType": "offline_lstm_demo",
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "predictedPrice": 612,
+        "confidenceLower": 581,
+        "confidenceUpper": 643,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-22",
+        "predictedPrice": 613,
+        "confidenceLower": 582,
+        "confidenceUpper": 644,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-23",
+        "predictedPrice": 615,
+        "confidenceLower": 584,
+        "confidenceUpper": 646,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-24",
+        "predictedPrice": 616,
+        "confidenceLower": 585,
+        "confidenceUpper": 647,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-25",
+        "predictedPrice": 616,
+        "confidenceLower": 585,
+        "confidenceUpper": 647,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-26",
+        "predictedPrice": 617,
+        "confidenceLower": 586,
+        "confidenceUpper": 648,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-27",
+        "predictedPrice": 617,
+        "confidenceLower": 586,
+        "confidenceUpper": 648,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-28",
+        "predictedPrice": 617,
+        "confidenceLower": 586,
+        "confidenceUpper": 648,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-29",
+        "predictedPrice": 616,
+        "confidenceLower": 585,
+        "confidenceUpper": 647,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-30",
+        "predictedPrice": 616,
+        "confidenceLower": 585,
+        "confidenceUpper": 647,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-01",
+        "predictedPrice": 615,
+        "confidenceLower": 584,
+        "confidenceUpper": 646,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-02",
+        "predictedPrice": 614,
+        "confidenceLower": 583,
+        "confidenceUpper": 645,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-03",
+        "predictedPrice": 614,
+        "confidenceLower": 583,
+        "confidenceUpper": 645,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-04",
+        "predictedPrice": 614,
+        "confidenceLower": 583,
+        "confidenceUpper": 645,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-05",
+        "predictedPrice": 614,
+        "confidenceLower": 583,
+        "confidenceUpper": 645,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-06",
+        "predictedPrice": 614,
+        "confidenceLower": 583,
+        "confidenceUpper": 645,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-07",
+        "predictedPrice": 615,
+        "confidenceLower": 584,
+        "confidenceUpper": 646,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-08",
+        "predictedPrice": 616,
+        "confidenceLower": 585,
+        "confidenceUpper": 647,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-09",
+        "predictedPrice": 617,
+        "confidenceLower": 586,
+        "confidenceUpper": 648,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-10",
+        "predictedPrice": 619,
+        "confidenceLower": 588,
+        "confidenceUpper": 650,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-11",
+        "predictedPrice": 621,
+        "confidenceLower": 590,
+        "confidenceUpper": 652,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-12",
+        "predictedPrice": 622,
+        "confidenceLower": 591,
+        "confidenceUpper": 653,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-13",
+        "predictedPrice": 624,
+        "confidenceLower": 593,
+        "confidenceUpper": 655,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-14",
+        "predictedPrice": 625,
+        "confidenceLower": 594,
+        "confidenceUpper": 656,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-15",
+        "predictedPrice": 626,
+        "confidenceLower": 595,
+        "confidenceUpper": 657,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-16",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-17",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-18",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-19",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-20",
+        "predictedPrice": 627,
+        "confidenceLower": 596,
+        "confidenceUpper": 658,
+        "insight": "Stable trajectory"
+      }
+    ]
+  },
+  {
+    "id": "fc-obj-mkt-channapatna",
+    "marketId": "mkt-channapatna",
+    "commodity": "cocoon",
+    "generatedAt": "2026-09-20T12:00:00Z",
+    "forecastHorizonDays": 30,
+    "sourceType": "offline_lstm_demo",
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "predictedPrice": 592,
+        "confidenceLower": 562,
+        "confidenceUpper": 622,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-22",
+        "predictedPrice": 593,
+        "confidenceLower": 563,
+        "confidenceUpper": 623,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-23",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-24",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-25",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-26",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-27",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-28",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-29",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-30",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-01",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-02",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-03",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-04",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-05",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-06",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-07",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-08",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-09",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-10",
+        "predictedPrice": 599,
+        "confidenceLower": 569,
+        "confidenceUpper": 629,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-11",
+        "predictedPrice": 601,
+        "confidenceLower": 571,
+        "confidenceUpper": 631,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-12",
+        "predictedPrice": 602,
+        "confidenceLower": 572,
+        "confidenceUpper": 632,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-13",
+        "predictedPrice": 604,
+        "confidenceLower": 574,
+        "confidenceUpper": 634,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-14",
+        "predictedPrice": 605,
+        "confidenceLower": 575,
+        "confidenceUpper": 635,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-15",
+        "predictedPrice": 606,
+        "confidenceLower": 576,
+        "confidenceUpper": 636,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-16",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-17",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-18",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-19",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-20",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      }
+    ]
+  },
+  {
+    "id": "fc-obj-mkt-kolar",
+    "marketId": "mkt-kolar",
+    "commodity": "cocoon",
+    "generatedAt": "2026-09-20T12:00:00Z",
+    "forecastHorizonDays": 30,
+    "sourceType": "offline_lstm_demo",
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "predictedPrice": 592,
+        "confidenceLower": 562,
+        "confidenceUpper": 622,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-22",
+        "predictedPrice": 593,
+        "confidenceLower": 563,
+        "confidenceUpper": 623,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-23",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-24",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-25",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-26",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-27",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-28",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-29",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-30",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-01",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-02",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-03",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-04",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-05",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-06",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-07",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-08",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-09",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-10",
+        "predictedPrice": 599,
+        "confidenceLower": 569,
+        "confidenceUpper": 629,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-11",
+        "predictedPrice": 601,
+        "confidenceLower": 571,
+        "confidenceUpper": 631,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-12",
+        "predictedPrice": 602,
+        "confidenceLower": 572,
+        "confidenceUpper": 632,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-13",
+        "predictedPrice": 604,
+        "confidenceLower": 574,
+        "confidenceUpper": 634,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-14",
+        "predictedPrice": 605,
+        "confidenceLower": 575,
+        "confidenceUpper": 635,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-15",
+        "predictedPrice": 606,
+        "confidenceLower": 576,
+        "confidenceUpper": 636,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-16",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-17",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-18",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-19",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-20",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      }
+    ]
+  },
+  {
+    "id": "fc-obj-mkt-mandya",
+    "marketId": "mkt-mandya",
+    "commodity": "cocoon",
+    "generatedAt": "2026-09-20T12:00:00Z",
+    "forecastHorizonDays": 30,
+    "sourceType": "offline_lstm_demo",
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "predictedPrice": 592,
+        "confidenceLower": 562,
+        "confidenceUpper": 622,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-22",
+        "predictedPrice": 593,
+        "confidenceLower": 563,
+        "confidenceUpper": 623,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-23",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-24",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-25",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-26",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-27",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-28",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-29",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-30",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-01",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-02",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-03",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-04",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-05",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-06",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-07",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-08",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-09",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-10",
+        "predictedPrice": 599,
+        "confidenceLower": 569,
+        "confidenceUpper": 629,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-11",
+        "predictedPrice": 601,
+        "confidenceLower": 571,
+        "confidenceUpper": 631,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-12",
+        "predictedPrice": 602,
+        "confidenceLower": 572,
+        "confidenceUpper": 632,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-13",
+        "predictedPrice": 604,
+        "confidenceLower": 574,
+        "confidenceUpper": 634,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-14",
+        "predictedPrice": 605,
+        "confidenceLower": 575,
+        "confidenceUpper": 635,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-15",
+        "predictedPrice": 606,
+        "confidenceLower": 576,
+        "confidenceUpper": 636,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-16",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-17",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-18",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-19",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-20",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      }
+    ]
+  },
+  {
+    "id": "fc-obj-mkt-bengaluru",
+    "marketId": "mkt-bengaluru",
+    "commodity": "cocoon",
+    "generatedAt": "2026-09-20T12:00:00Z",
+    "forecastHorizonDays": 30,
+    "sourceType": "offline_lstm_demo",
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "predictedPrice": 592,
+        "confidenceLower": 562,
+        "confidenceUpper": 622,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-22",
+        "predictedPrice": 593,
+        "confidenceLower": 563,
+        "confidenceUpper": 623,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-23",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-24",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-25",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-26",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-27",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-28",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-29",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-09-30",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-01",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-02",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-03",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-04",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-05",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-06",
+        "predictedPrice": 594,
+        "confidenceLower": 564,
+        "confidenceUpper": 624,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-07",
+        "predictedPrice": 595,
+        "confidenceLower": 565,
+        "confidenceUpper": 625,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-08",
+        "predictedPrice": 596,
+        "confidenceLower": 566,
+        "confidenceUpper": 626,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-09",
+        "predictedPrice": 597,
+        "confidenceLower": 567,
+        "confidenceUpper": 627,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-10",
+        "predictedPrice": 599,
+        "confidenceLower": 569,
+        "confidenceUpper": 629,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-11",
+        "predictedPrice": 601,
+        "confidenceLower": 571,
+        "confidenceUpper": 631,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-12",
+        "predictedPrice": 602,
+        "confidenceLower": 572,
+        "confidenceUpper": 632,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-13",
+        "predictedPrice": 604,
+        "confidenceLower": 574,
+        "confidenceUpper": 634,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-14",
+        "predictedPrice": 605,
+        "confidenceLower": 575,
+        "confidenceUpper": 635,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-15",
+        "predictedPrice": 606,
+        "confidenceLower": 576,
+        "confidenceUpper": 636,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-16",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-17",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-18",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-19",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      },
+      {
+        "date": "2026-10-20",
+        "predictedPrice": 607,
+        "confidenceLower": 577,
+        "confidenceUpper": 637,
+        "insight": "Stable trajectory"
+      }
+    ]
+  }
+]
