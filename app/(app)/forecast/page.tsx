@@ -28,7 +28,7 @@ import { Ticket, BrainCircuit, Activity, CalendarDays, Sparkles } from "lucide-r
 export default function ForecastIntelligencePage() {
   const [mounted, setMounted] = useState(false);
   const [marketId, setMarketId] = useState<string>("");
-  const [range, setRange] = useState<"7D"|"15D"|"30D">("7D");
+  const [range, setRange] = useState<"7D"|"14D"|"30D">("7D");
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
@@ -62,7 +62,7 @@ export default function ForecastIntelligencePage() {
   const cocoonPrices = cocoonPricesData as MarketPrice[];
   const forecasts = forecastsData as Forecast[];
 
-  const days = range === "7D" ? 7 : range === "15D" ? 15 : 30;
+  const days = range === "7D" ? 7 : range === "14D" ? 14 : 30;
 
   // Current baseline
   const currentCocoon = getLatestPrice(cocoonPrices, marketId, "cocoon");
@@ -181,9 +181,24 @@ export default function ForecastIntelligencePage() {
               Trajectory Projection
             </h3>
             <div className="flex bg-background rounded-lg p-1 border border-border">
-              <button className="px-4 py-1.5 text-sm font-medium bg-surface shadow-sm rounded-md text-text-main">7 Days</button>
-              <button className="px-4 py-1.5 text-sm font-medium text-text-muted hover:text-text-main transition-colors cursor-not-allowed opacity-50">14 Days</button>
-              <button className="px-4 py-1.5 text-sm font-medium text-text-muted hover:text-text-main transition-colors cursor-not-allowed opacity-50">30 Days</button>
+              <button 
+                onClick={() => setRange("7D")}
+                className={`px-4 py-1.5 text-sm font-medium transition-colors ${range === "7D" ? "bg-surface shadow-sm rounded-md text-text-main" : "text-text-muted hover:text-text-main"}`}
+              >
+                7 Days
+              </button>
+              <button 
+                onClick={() => setRange("14D")}
+                className={`px-4 py-1.5 text-sm font-medium transition-colors ${range === "14D" ? "bg-surface shadow-sm rounded-md text-text-main" : "text-text-muted hover:text-text-main"}`}
+              >
+                14 Days
+              </button>
+              <button 
+                onClick={() => setRange("30D")}
+                className={`px-4 py-1.5 text-sm font-medium transition-colors ${range === "30D" ? "bg-surface shadow-sm rounded-md text-text-main" : "text-text-muted hover:text-text-main"}`}
+              >
+                30 Days
+              </button>
             </div>
           </div>
           
