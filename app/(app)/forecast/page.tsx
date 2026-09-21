@@ -226,10 +226,10 @@ export default function ForecastIntelligencePage() {
               Price Projection Horizon ({selectedMarketObj.name})
             </h2>
             <div className="flex gap-2 mb-4">
-              {["7D", "15D", "30D"].map((r) => (
+              {["7D", "14D", "30D"].map((r) => (
                 <button 
                   key={r}
-                  onClick={() => setRange(r as "7D" | "15D" | "30D")}
+                  onClick={() => setRange(r as "7D" | "14D" | "30D")}
                   className={`px-3 py-1 text-xs font-bold rounded-full transition-colors ${
                     range === r 
                       ? "bg-primary text-white" 
